@@ -10,14 +10,13 @@ public class VuMarkEvent : MonoBehaviour {
 	private VuMarkManager vuMarkManager;
 
     void Start () {
-        //rooms = new JsonReader("JsonData/rooms").JsonObject;
         TextAsset jsonData = (TextAsset)Resources.Load("JsonData/rooms", typeof(TextAsset));
         Rooms = JsonMapper.ToObject<List<Room>>(jsonData.text);
         schedules = new JsonReader("JsonData/rasp").JsonObject;
         vuMarkManager = TrackerManager.Instance.GetStateManager().GetVuMarkManager();
 		vuMarkManager.RegisterVuMarkDetectedCallback(onVuMarkDetected);
     }
-    //dsf
+
     private void onVuMarkDetected(VuMarkTarget target)
     {
         string ID = getVuMarkID(target);
