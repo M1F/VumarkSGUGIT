@@ -1,0 +1,6 @@
+[
+{"RoomNumber":"115","Floor":1,"Board":false,"Screen":false,"Projector":false,"Computers":1,"WorkPlace":0,"Url":"http://sgugit.ru/student/resources/institutions/institute-of-geodesy-and-management-him/the-dean-s-him/index.php?sphrase_id=167882","Soft":[""],"Name":"Деканат ИГиМ","Description":"","Building":1,"Department":"","Key":""},
+{"RoomNumber":"411","Floor":4,"Board":true,"Screen":true,"Projector":false,"Computers":11,"WorkPlace":22,"Url":"http://sgugit.ru/student/resources/institutions/institute-of-geodesy-and-management-him/the-dean-s-him/index.php?sphrase_id=167882","Soft":[""],"Name":"VR/AR","Description":"","Building":1,"Department":"","Key":""},
+{"RoomNumber":"406","Floor":4,"Board":true,"Screen":true,"Projector":true,"Computers":10,"WorkPlace":20,"Url":"http://rasp.sgugit.ru","Soft":[""],"Name":"Лаборатория информационных технологий","Description":"","Building":1,"Department":"","Key":""}
+]
+
