@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <VuforiaUnityInfo>
-    <TargetSet toolVersion="" version="6.0"><VuMark name="SgugitAR" previewImage="7bb96ac5c7f54013b971db98fb001627_preview.png" targetId="7bb96ac5c7f54013b971db98fb001627" version="9.0">
+    <TargetSet toolVersion="" version="6.0"><VuMark name="SgugitAR" previewImage="a99a82c362e9465ba4e9ff770d87b800_preview.png" targetId="a99a82c362e9465ba4e9ff770d87b800" version="9.0">
             <Shape bbox2D="0 0 514 488" origin="249.5 250.5" />
             <Code IDlength="4" IDtype="string" />
         </VuMark>

@@ -10,6 +10,7 @@ class Schedule
     public string RoomNumber { get; set; }
     public bool Projector { get; set; }
     public bool Screen { get; set; }
+    public List<Day> Days { get; set; }
 
     //public Schedule(string iD, JsonData schedules)
     //{
@@ -27,4 +28,9 @@ class Schedule
     //        }
     //    }
     //}
+}
+
+class Day
+{
+
 }
